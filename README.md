@@ -1,4 +1,5 @@
-# ARES<p align = "center"
+# ARES
+<p align = "center"
    
 ![LOGO](https://user-images.githubusercontent.com/126149253/223385894-b34f4ce7-537c-44e2-97fe-d9b5ec97322b.png)
 
@@ -26,12 +27,29 @@ The objective of ARES is to allow job seekers to search for jobs by job title, l
 
 
 ## Languages
-⦿HTML 
 
-⦿JS 
+
+⦿HTML
+
+⦿JavaScript
 
 ⦿React JS
 
 ⦿Node JS 
 
 ⦿Mongo DB
+
+
+
+
+
+## Authors 
+
+<a href="https://github.com/ViishalM">Vishal</a>
+
+<a href="https://github.com/ROOSSOp2452">Roosso</a>
+
+<a href="url">Ashwath</a>
+
+<a href="https://github.com/yuneshwaran">Yuneshwaran</a>
+
