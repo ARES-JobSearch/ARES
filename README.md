@@ -49,7 +49,7 @@ The objective of ARES is to allow job seekers to search for jobs by job title, l
 
 <a href="https://github.com/ROOSSOp2452">Roosso</a>
 
-<a href="url">Ashwath</a>
+<a href="https://github.com/Ashwathg17">Ashwath</a>
 
 <a href="https://github.com/yuneshwaran">Yuneshwaran</a>
 
