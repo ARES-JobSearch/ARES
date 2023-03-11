@@ -25,21 +25,26 @@ The objective of ARES is to allow job seekers to search for jobs by job title, l
 
 
 
-
 ## Languages
 
+<ul>
+<li>
+HTML
+</li>
 
-⦿HTML
-
-⦿JavaScript
-
-⦿React JS
-
-⦿Node JS 
-
-⦿Mongo DB
-
-
+<li>
+JavaScript
+</li>
+<li>
+React JS
+</li>
+<li>
+Node JS 
+</li>
+<li>
+Mongo DB
+</li>
+</ul>
 
 
 
