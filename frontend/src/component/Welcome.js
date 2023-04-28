@@ -3,14 +3,14 @@ import video from './video.mp4';
 
 const Welcome = (props) => {
   return (
-    <Grid container item direction="column" alignItems="center" justify="center" backgroundColor='black'>
+    <Grid container item direction="column" alignItems="center" justify="center">
       
       <video className='videoTag' autoPlay loop muted 
         style={{minWidth: "100%",minHeight: "100vh",maxWidth: "100%",maxHeight: "100vh",objectFit: "cover",
           zIndex: "-1", boxSizing:"border-box",backgroundColor: "rgba(35,45,57,0.8)"}}>
           <source src={video} type='video/mp4' />
       </video>
-        <div class="caption header-text"
+      <div class="caption header-text"
           style={{ position: "absolute",top: "0",left: "0", bottom: "7px",width: "100%"
             }}>
 
