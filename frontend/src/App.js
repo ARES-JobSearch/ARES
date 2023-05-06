@@ -33,7 +33,7 @@ const useStyles = makeStyles(
 }));
 
 export const SetPopupContext = createContext();
-const TITLE ="Job-o-Hunt"
+const TITLE ="ARES"
 
 function App() {
   const classes = useStyles();
