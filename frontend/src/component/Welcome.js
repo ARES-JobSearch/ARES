@@ -10,7 +10,7 @@ const Welcome = (props) => {
           zIndex: "-1", boxSizing:"border-box",backgroundColor: "rgba(35,45,57,0.8)"}}>
           <source src={video} type='video/mp4' />
       </video>
-      <div class="caption header-text"
+        <div class="caption header-text"
           style={{ position: "absolute",top: "0",left: "0", bottom: "7px",width: "100%"
             }}>
 
@@ -19,14 +19,13 @@ const Welcome = (props) => {
                 <Grid item >
                   <Typography variant="h6" style={{marginTop: "0px",fontSize: "18px",
                       textTransform: "uppercase",fontWeight: "800",color: "#3f51b5",
-                      letterSpacing: "0.5px"}}>PROBLEM FINDING A JOB!?</Typography>
+                      letterSpacing: "0.5px"}}>FACING DIFFICULTIES IN FINDING SUITABLE JOB </Typography>
                 </Grid>
                 <Grid item>
                   <Typography variant="h2" 
                   style={{marginTop: "30px",marginBottom:"25px",textTransform: "uppercase",
                   fontWeight: "800",color: "#3f51b5",letterSpacing: "1px"}}>
-                    FIND THE JOB <br></br>
-                    <em style={{fontStyle: "normal",color: "#ed563b",fontWeight: "900"}}>THAT FITS YOU</em>
+                    FIND THE PERFECT <em style={{fontStyle: "normal",color: "#ed563b",fontWeight: "900"}}>JOB</em>
                   </Typography>
                 </Grid>
               </div>

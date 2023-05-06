@@ -1,7 +1,6 @@
 import {
   AppBar,Toolbar,Typography,Button,makeStyles,} from "@material-ui/core";
 import { useHistory } from "react-router-dom";
-import logo from "./LOGO.png";
 
 import isAuth, { userType } from "../lib/isAuth";
 
@@ -30,10 +29,8 @@ const Navbar = (props) => {
   return (
     <AppBar position="fixed" background= "transparent">
       <Toolbar style={{minHeight: "80px"}}>
-      <Typography variant="h6" className={classes.title} style={{fontSize: "32px",fontWeight: "800"}} >
-          <span style={{justifyContent:"center"}}>
-          <img src={logo}  width="80" height="80px"></img><a style={{paddingLeft:"460px",fontSize:"50px"}}>ARES - Job Search</a>
-          </span>
+        <Typography variant="h6" className={classes.title} style={{fontSize: "32px",fontWeight: "800"}}>
+        <img src="https://github.com/ARES-JobSearch/ARES/blob/master/LOGO.png" width="30px" height="auto"></img>ARES
         </Typography>
         <div style={{marginTop:"20px"}}>
         {isAuth() ? (
