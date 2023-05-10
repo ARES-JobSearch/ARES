@@ -8,16 +8,16 @@ var cors = require("cors");
 const fs = require("fs");
 
 require("dotenv").config()
-// // MongoDsB
-// mongoose
-//   .connect("mongodb://localhost:27017/jobPortal", {
-//     useNewUrlParser: true,
-//     useUnifiedTopology: true,
-//     useCreateIndex: true,
-//     useFindAndModify: false,
-//   })
-//   .then((res) => console.log("Connected to DB.."))
-//   .catch((err) => console.log(err));
+// MongoDsB
+ mongoose
+   .connect("mongodb+srv://yato:yato.123@cluster0.xi6csuw.mongodb.net/ares?retryWrites=true&w=majority", {
+     useNewUrlParser: true,
+     useUnifiedTopology: true,
+     useCreateIndex: true,
+     useFindAndModify: false,
+   })
+   .then((res) => console.log("Connected to DB.."))
+   .catch((err) => console.log(err));
 
 
 const db = require('./config/keys').mongoURI;
