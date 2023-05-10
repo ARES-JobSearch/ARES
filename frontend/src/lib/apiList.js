@@ -1,4 +1,4 @@
-export const server = "https://ares-server.onrender.com/api";
+export const server = "https://ares-server.onrender.com";
 
 const apiList = {
   login: `${server}/auth/login`,
