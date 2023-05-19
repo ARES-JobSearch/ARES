@@ -10,7 +10,7 @@ const fs = require("fs");
 require("dotenv").config()
 // MongoDsB
  mongoose
-   .connect("mongodb+srv://yato:yato.123@cluster0.xi6csuw.mongodb.net/ares?retryWrites=true&w=majority", {
+   .connect("mongodb+srv://yato:yato123@cluster0.xi6csuw.mongodb.net/ares?retryWrites=true&w=majority", {
      useNewUrlParser: true,
      useUnifiedTopology: true,
      useCreateIndex: true,
