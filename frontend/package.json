@@ -2,6 +2,7 @@
   "name": "job-portal",
   "version": "0.1.0",
   "private": true,
+  "proxy":"https://ares-server.onrender.com/",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
@@ -40,5 +41,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+    
+    
   }
 }
