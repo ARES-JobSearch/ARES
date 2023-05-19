@@ -1,4 +1,5 @@
-export const server = "https://ares-server.onrender.com";
+export const server = "http://localhost:4444";
+//export const server = "https://secret-shelf-87665.herokuapp.com";
 
 const apiList = {
   login: `${server}/auth/login`,

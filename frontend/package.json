@@ -15,7 +15,7 @@
     "react-dom": "^17.0.1",
     "react-phone-input-2": "^2.13.9",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,12 +40,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "proxy":"https://ares-oqqq.onrender.com",
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "index.js",
-  "devDependencies": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }

@@ -19,7 +19,7 @@ const Welcome = (props) => {
                 <Grid item >
                   <Typography variant="h6" style={{marginTop: "0px",fontSize: "18px",
                       textTransform: "uppercase",fontWeight: "800",color: "#3f51b5",
-                      letterSpacing: "0.5px"}}>FACING DIFFICULTIES IN FINDING SUITABLE JOB </Typography>
+                      letterSpacing: "0.5px"}}>FIND THE JOB THAT FITS YOU </Typography>
                 </Grid>
                 <Grid item>
                   <Typography variant="h2" 
